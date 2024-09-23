@@ -5,7 +5,9 @@ The Olist Store Analysis is a comprehensive, data-driven study focusing on the p
 
 **Tools Used**
 Microsoft Excel: Used for data cleaning, basic analysis, and visualization.
+
 Power BI: Created advanced interactive dashboards for in-depth analysis.
+
 Tableau: Visualized complex data trends and KPIs through dashboards.
 
 
