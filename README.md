@@ -48,7 +48,8 @@ Insight: Faster shipping times correlated with higher review scores, showing tha
 
 
 
-**Insights**
+**Insights:**
+
 From the analysis of Olist’s store data, we uncovered several key insights:
 Total Sales: Olist generated approximately 16.5 million in sales, with a 90% delivery success rate.
 Weekend Sales: Sales doubled during weekends compared to weekdays, highlighting potential for targeted weekend promotions.
@@ -56,6 +57,7 @@ Shipping Efficiency: Customer satisfaction is strongly linked to delivery speed,
 Credit Card Dominance: Over 70% of transactions were made using credit cards, suggesting potential benefits from credit card-related promotions or partnerships.
 
 
-**Conclusion**
+**Conclusion:**
+
 This project provided valuable insights into Olist’s e-commerce operations. By leveraging Excel, Power BI, and Tableau, we were able to visualize key metrics and generate strategic recommendations. These findings highlight the importance of data-driven decision-making in improving customer satisfaction and optimizing business strategies.
 
