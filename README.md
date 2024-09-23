@@ -4,6 +4,7 @@
 The Olist Store Analysis is a comprehensive, data-driven study focusing on the performance, customer behavior, and sales trends of the Brazilian e-commerce platform, Olist. This analysis provides valuable insights into key operational aspects, including payment methods, delivery times, and customer satisfaction. The primary goal of this project is to uncover actionable insights to help improve business decision-making, optimize sales strategies, and enhance the overall customer experience.
 
 **Tools Used**
+
 Microsoft Excel: Used for data cleaning, basic analysis, and visualization.
 
 Power BI: Created advanced interactive dashboards for in-depth analysis.
