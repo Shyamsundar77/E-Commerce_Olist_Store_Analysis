@@ -1,56 +1,50 @@
 # E-Commerce_Olist_Store_Analysis
+
+
 Olist Store Analysis - E-commerce Performance Review
-**Introduction**
-The Olist Store Analysis is a comprehensive data-driven study focusing on the performance, customer behavior, and sales trends of the Brazilian e-commerce platform, Olist. The analysis provides insights into various operational aspects, including payment types, delivery times, and customer satisfaction metrics. Our objective was to uncover actionable insights to improve business decision-making, optimize sales strategies, and enhance customer experience.
+Introduction
+The Olist Store Analysis is a comprehensive, data-driven study focusing on the performance, customer behavior, and sales trends of the Brazilian e-commerce platform, Olist. This analysis provides valuable insights into key operational aspects, including payment methods, delivery times, and customer satisfaction. The primary goal of this project is to uncover actionable insights to help improve business decision-making, optimize sales strategies, and enhance the overall customer experience.
 
-**Tools Used**
-Microsoft Excel: Data cleaning, basic analysis, and visualization.
-Power BI: Creating advanced interactive dashboards.
-Tableau: Visualizing complex data trends and KPIs.
+Tools Used
+Microsoft Excel: Used for data cleaning, basic analysis, and visualization.
+Power BI: Created advanced interactive dashboards for in-depth analysis.
+Tableau: Visualized complex data trends and KPIs through dashboards.
+Project Process
+The analysis was conducted using a structured approach to ensure data accuracy and relevance:
 
+Data Extraction: Collected raw data from Olist's extensive databases, including customer orders, payment details, reviews, product information, and more.
 
-**Project Process**
-The analysis followed a structured approach to ensure accurate and actionable outcomes:
-Data Extraction: Collected raw data from Olist's comprehensive databases, including customer orders, payment details, reviews, products, and more.
-Data Transformation: Cleaned and prepared datasets by handling missing values, removing duplicates, correcting errors, and standardizing formats.
-KPI & Visualization: Key performance indicators (KPIs) were identified to track essential metrics like total sales, number of orders, review scores, payment methods, and delivery times. These KPIs were visualized using Excel, Power BI, and Tableau to identify trends and insights.
-Dashboard Creation: Developed interactive dashboards for an intuitive and clear presentation of key findings, enabling data-driven decision-making.
+Data Transformation: Cleaned and prepared the datasets by handling missing values, removing duplicates, correcting errors, and standardizing formats.
 
+KPI Identification & Visualization: Identified key performance indicators (KPIs) to track crucial metrics such as total sales, number of orders, review scores, payment types, and delivery times. Visualized these KPIs using Excel, Power BI, and Tableau to understand trends and insights effectively.
 
+Dashboard Creation: Developed interactive dashboards to present findings clearly and intuitively, enabling data-driven decisions.
 
-**Key Performance Indicators (KPIs)**
-Payment Statistics (Weekday vs Weekend)
-Insight: Weekday payments accounted for 77% of total sales, indicating a significant difference in payment volumes compared to weekends. Businesses could consider running special promotions during weekends to boost sales.
-
-Credit Card Payments and Review Score
-Insight: More than 70% of sales were made using credit cards, and these transactions also saw the highest review scores, suggesting a positive customer experience with this payment method.
-
-Delivery Efficiency for Pet Shop.
-Insight: The average delivery time for pet shop orders was 11 days, highlighting the need for operational improvements to increase customer satisfaction.
-
-Price vs Payment in São Paulo City.
-Insight: Customers in São Paulo paid 41% more than the average price, indicating a preference for higher-end products or services in this market.
-
-Shipping Time vs Review Score.
-Insight: Faster shipping times correlated with higher review scores, demonstrating that quick delivery significantly boosts customer satisfaction.
-
-
-**Challenges**
-Throughout the analysis, several challenges were encountered:
-Data Cleaning: The initial datasets contained missing values, duplicates, and inconsistent formats, requiring extensive data cleaning and transformation.
-Complex KPI Identification: Determining the most relevant KPIs that would provide actionable insights required multiple iterations and expert consultation.
-Dashboard Design: Creating a user-friendly and visually compelling dashboard in Tableau and Power BI, while ensuring data accuracy, was a time-consuming process.
+Key Performance Indicators (KPIs)
+1. Payment Statistics: Weekday vs Weekend
+Insight: Payments made during weekdays accounted for 77% of total sales, with significantly lower transactions on weekends. Businesses could consider special weekend promotions to increase sales on these days.
+2. Credit Card Payments and Review Score
+Insight: Over 70% of sales were made using credit cards, and these transactions had the highest review scores, indicating a positive customer experience with this payment method.
+3. Delivery Efficiency for Pet Shop
+Insight: The average delivery time for pet shop orders was 11 days. This highlights the need for operational improvements to enhance delivery speed and customer satisfaction.
+4. Price vs Payment in São Paulo City
+Insight: Customers in São Paulo paid 41% more than the average product price, indicating a preference for higher-end products or services in this market.
+5. Shipping Time vs Review Score
+Insight: Faster shipping times correlated with higher review scores, showing that quicker deliveries lead to greater customer satisfaction.
+Challenges
+1. Data Cleaning
+Initial datasets contained missing values, duplicates, and inconsistent formats, requiring extensive cleaning and transformation.
+2. Complex KPI Identification
+Determining the most relevant KPIs for actionable insights involved multiple iterations and consultations.
+3. Dashboard Design
+Creating intuitive, user-friendly dashboards in Tableau and Power BI while ensuring data accuracy was a time-intensive process.
 Insights
+From the analysis of Olist’s store data, we uncovered several key insights:
 
-
-
-**Based on the analysis of Olist's store data:**
-The total sales volume was approximately 16.5M, with a 90% delivery success rate.
-Weekend sales doubled compared to weekdays, suggesting potential for targeted weekend promotions.
-Customer satisfaction is highly dependent on shipping times; faster deliveries lead to better reviews.
-Credit card payments dominate, representing over 70% of total transactions, indicating that partnerships with banks for credit promotions could be beneficial.
-
-
-**Conclusion**
-This project provided valuable insights into the performance of Olist’s e-commerce operations. By leveraging tools like Excel, Power BI, and Tableau, we could visualize key metrics and propose strategic recommendations. This analysis demonstrates the importance of data-driven decisions in improving customer satisfaction and optimizing business strategies.
+Total Sales: Olist generated approximately 16.5 million in sales, with a 90% delivery success rate.
+Weekend Sales: Sales doubled during weekends compared to weekdays, highlighting potential for targeted weekend promotions.
+Shipping Efficiency: Customer satisfaction is strongly linked to delivery speed, with faster deliveries leading to better reviews.
+Credit Card Dominance: Over 70% of transactions were made using credit cards, suggesting potential benefits from credit card-related promotions or partnerships.
+Conclusion
+This project provided valuable insights into Olist’s e-commerce operations. By leveraging Excel, Power BI, and Tableau, we were able to visualize key metrics and generate strategic recommendations. These findings highlight the importance of data-driven decision-making in improving customer satisfaction and optimizing business strategies.
 
