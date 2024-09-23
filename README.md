@@ -10,11 +10,15 @@ Tableau: Visualized complex data trends and KPIs through dashboards.
 
 
 **Project Process**:
-->The analysis was conducted using a structured approach to ensure data accuracy and relevance:
-->Data Extraction: Collected raw data from Olist's extensive databases, including customer orders, payment details, reviews, product information, and more.
-->Data Transformation: Cleaned and prepared the datasets by handling missing values, removing duplicates, correcting errors, and standardizing formats.
-->KPI Identification & Visualization: Identified key performance indicators (KPIs) to track crucial metrics such as total sales, number of orders, review scores, payment types, and delivery times. Visualized these KPIs using Excel, Power BI, and Tableau to understand trends and insights effectively.
-->Dashboard Creation: Developed interactive dashboards to present findings clearly and intuitively, enabling data-driven decisions.
+1. The analysis was conducted using a structured approach to ensure data accuracy and relevance:
+
+2. Data Extraction: Collected raw data from Olist's extensive databases, including customer orders, payment details, reviews, product information, and more.
+
+3. Data Transformation: Cleaned and prepared the datasets by handling missing values, removing duplicates, correcting errors, and standardizing formats.
+
+4. KPI Identification & Visualization: Identified key performance indicators (KPIs) to track crucial metrics such as total sales, number of orders, review scores, payment types, and delivery times. Visualized these KPIs using Excel, Power BI, and Tableau to understand trends and insights effectively.
+
+5. Dashboard Creation: Developed interactive dashboards to present findings clearly and intuitively, enabling data-driven decisions.
 
 
 **Challenges**
